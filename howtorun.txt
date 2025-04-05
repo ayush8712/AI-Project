@@ -1,0 +1,13 @@
+vs code me terminal pe
+
+-python -m venv venv
+-venv\Scripts\activate
+-pip install -r requirements.txt
+
+python interpreter choose karna '.venv' wala
+
+-streamlit run main.py
+
+
+conifg.json me 
+api key apna dal dena (sahi rahe ga)
